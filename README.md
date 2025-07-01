@@ -67,7 +67,7 @@ OPENAI_API_KEY=<your_openai_api_key_here>
 
 To launch the app locally:
 ```bash
-streamlit run Apps/mystic_oracle.py
+streamlit run mystic_oracle.py
 ```
 -	Type your question into the input box
 -	Click Reveal Prophecy
